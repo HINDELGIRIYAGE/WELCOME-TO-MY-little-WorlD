@@ -6,7 +6,7 @@
 
 **Stardust Snap** — an interactive web experience where a name is written in glowing stardust and controlled with hand gestures through the webcam.
 
-[Live Demo](https://hindelgiriyage.github.io/WELCOME-TO-MY-little-WorlD_/) · [Report an Issue](https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD_/issues)
+[Live Demo](https://hindelgiriyage.github.io/WELCOME-TO-MY-little-WorlD/) · [Report an Issue](https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD/issues)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -96,8 +96,8 @@ URL options: `?name=YourName` changes the name, `?theme=deco` starts in the Saku
 The webcam only works over `https://` or on `localhost`, so run the project with a local server.
 
 ```bash
-git clone https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD_.git
-cd WELCOME-TO-MY-little-WorlD_
+git clone https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD.git
+cd WELCOME-TO-MY-little-WorlD
 python -m http.server 8000
 ```
 
